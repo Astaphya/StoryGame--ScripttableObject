@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea1ca8c98195944bb26134f347c70af, type: 3}
+  m_Name: A0.Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to the Escape From the Prison..\n\nWe will ask you to few questions
+    and you select the one of them.\n\nYou will make your  own way  to escape..\n\nPress
+    '1' first option , '2' second option \nif you want to quit then press 'q'..\n\nEnjoy
+    the game...."
+  nextStates:
+  - {fileID: 11400000, guid: bafd6781423662d41ac2fe27ddc74c7d, type: 2}

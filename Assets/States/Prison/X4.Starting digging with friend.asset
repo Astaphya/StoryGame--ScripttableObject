@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea1ca8c98195944bb26134f347c70af, type: 3}
+  m_Name: X4.Starting digging with friend
+  m_EditorClassIdentifier: 
+  storyText: "X4.Starting digging with fried\r\n\r\nWith Zirkov, you finished the
+    excavation very quickly. Zirkov arranged the boat for the escape and made things
+    easier for you.\r\n\r\n1.Escape Succesfull"
+  nextStates:
+  - {fileID: 11400000, guid: 6a78f0f58c0f1a44cb964b8a92daa6ea, type: 2}

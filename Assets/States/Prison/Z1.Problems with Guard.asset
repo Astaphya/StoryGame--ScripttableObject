@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea1ca8c98195944bb26134f347c70af, type: 3}
+  m_Name: Z1.Problems with Guard
+  m_EditorClassIdentifier: 
+  storyText: "The guard still wants money from you, says he'il rat you out if you
+    don't give him what you want.\r\n\n1.Give him what he wants. \n2.Don't give ."
+  nextStates:
+  - {fileID: 11400000, guid: 6a78f0f58c0f1a44cb964b8a92daa6ea, type: 2}
+  - {fileID: 11400000, guid: cd407951abb02a347bdc312706ae50e2, type: 2}

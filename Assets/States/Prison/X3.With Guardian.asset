@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea1ca8c98195944bb26134f347c70af, type: 3}
+  m_Name: X3.With Guardian
+  m_EditorClassIdentifier: 
+  storyText: "X3.With Companion\r\nYou met Zirkov Ubah . He is russian and civil engineer.
+    His sentence is 15 years. He is the right guy to make a friend. And most importantly,
+    he's your roommate.\r\nHis plan is dismantle the toilet of the prison room and
+    go down to the sewer. After reaching 100m in sewer , reach the infirmary's door
+    and escape from there with a boat.\r\n\r\n1.Tell the plan to Zirkov. \n2.Wait,
+    get an another friend. "
+  nextStates:
+  - {fileID: 11400000, guid: 020cda8fbfc7342439c490aa0a25c573, type: 2}
+  - {fileID: 11400000, guid: 01abb7db9fae515428217527ae6db46a, type: 2}

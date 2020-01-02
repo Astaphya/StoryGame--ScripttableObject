@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea1ca8c98195944bb26134f347c70af, type: 3}
+  m_Name: G1.Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'You failed....... You selected the wrong way..
+
+
+    Want to try again ?
+
+    1.Yes, This time i will escape the prison. Give me one more chance.
+
+    2.No,I''m going to go sulk for a while..'
+  nextStates:
+  - {fileID: 11400000, guid: bafd6781423662d41ac2fe27ddc74c7d, type: 2}
+  - {fileID: 11400000, guid: 365c4ead4ea1e34408bde77d2a3b1d9f, type: 2}

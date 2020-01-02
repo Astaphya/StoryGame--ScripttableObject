@@ -1,0 +1,58 @@
+X1.In the Prison
+
+You wounded an innocent person. So you went to prison. You will be in prison for  at least 5 years.  What will you do now ?
+1.Think of  an idea to escape prison. -->  X.2.Think of  an  idea
+2.I will not escape. i will wait 5 years. --> G1.GameOver
+
+X2.Think of an idea
+
+You've been in prison for three days. You watched the guardians, prisoners , breakfast times , dinner, all the time and you found a hint .. All of the activities take place in  a certain order .
+1..Get an escape companion. ---->X3.With Companion
+2.Give a bribe to guardians. --->Y1. With Guardian
+
+
+X3.With Companion
+You met Zirkov Ubah . He is russian and civil engineer. His sentence is 15 years. He is the right guy to make a friend. And most importantly, he's your roommate.
+His plan is dismantle the toilet of the prison room and go down to the sewer. After reaching 100m in sewer , reach the infirmary's door and escape from there with a boat.
+
+1.Tell the plan to Zirkov. -->X4.Starting digging with friend .
+2.Wait, get an another friend. -->Y1.With Guardian
+
+
+
+
+Y1.With Guardian
+Guardian Mr.Owen is a corrupt guard. He took the bribe.  He provided to you hammer,cigaratte , knife , and some materials. He wants  $500 for the materials. What will you do now ?
+If you don't give her $500, he may not be able to help in the future so think carefully.
+1.Give 500 dollars. -->Y2.Starting  digging.
+2.Give 250 dollars. --> Z1. Problems with guardian.
+
+
+Y2.Starting digging.
+This prison is built on an island. If you want to escape you have to find a boat. Nearest town 50km away from here.  You have to digging with secretly because your roommate shouldn't know .
+You're lucky the guard won't have any trouble getting you a boat because you gave him the bribe he wanted. But he wants more.
+1.Give him what he wants. Y3. Escape successful
+2.Don't give .. ---> G2.GameOver  Guardian
+
+Z1.Problems with guardian
+The guard still wants money from you, says he'il rat you out if you don't give him what you want.
+1.Give him what he wants. Y3. Escape successful
+2.Don't give .. ---> G2.GameOver  Guardian
+
+
+
+X4.Starting digging with fried
+
+With Zirkov, you finished the excavation very quickly. Zirkov arranged the boat for the escape and made things easier for you.
+
+1.Y3.Escape Succesfull
+
+Y3.Escape Succesfull
+Congratulations, you've managed to escape from prison. It was a little hard, but I knew you'd make it.
+
+1.Play again.. -->A0.Introduction
+
+
+
+
+
